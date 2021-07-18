@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnandMalviya
-- 👀 I’m interested in Web developemengt
+- 👀 I’m interested in Web developement
 - 🌱 I’m currently Studyng Engineering in CSE department 
 - 💞️ I’m looking to collaborate on Web paage developement
 - 📫 How to reach me ...
